@@ -119,6 +119,10 @@
   } 
 
   .title {
-    margin: 7%;
+    margin: 6%;
+  }
+
+  .titulo {
+    margin-top: -20%;
   }
   }

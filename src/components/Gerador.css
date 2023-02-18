@@ -118,11 +118,8 @@
     width: 78%;
   } 
 
-  .title {
-    margin: 6%;
+.box .titulo {
+    margin-top: 25%;
   }
 
-  .titulo {
-    margin-top: -20%;
-  }
   }
